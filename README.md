@@ -10,7 +10,9 @@
 
 ### Setup
 
-* TODO
+* Required Libraries
+  * `pip install pytest`
+  * `pip install beautifulsoup4`
 
 ### How to use
 

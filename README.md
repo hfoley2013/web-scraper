@@ -1,4 +1,4 @@
-# Project: Wikipedia Missing Citations Report Generator
+# Wikipedia Missing Citations Report Generator
 
 ## Author: Harper Foley
 
